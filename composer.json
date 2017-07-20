@@ -1,7 +1,7 @@
 {
     "name": "horde/imap-client",
     "description": "Horde IMAP Client",
-    "type": "library",
+    "type": "vcs",
     "homepage": "https://pear.horde.org",
     "license": "LGPL-2.1",
     "authors": [
