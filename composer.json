@@ -1,5 +1,5 @@
 {
-    "name": "horde/imap-client",
+    "name": "pear-pear.horde.org/Horde_Imap_Client",
     "description": "Horde IMAP Client",
     "type": "vcs",
     "homepage": "https://pear.horde.org",
